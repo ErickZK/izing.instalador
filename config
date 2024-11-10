@@ -1,0 +1,11 @@
+deploy_password=137025
+pg_pass=137025
+redis_pass=137025
+deploy_email=erick.souza@gmail.com
+repositorio=https://github.com/cleitonme/izing.open.io.git
+nome_instancia=izing1
+porta_postgre_intancia=5432
+frontend_url=192.168.2.105
+frontend_porta=4000
+backend_url=back.192.168.2.105
+backend_porta=3000
